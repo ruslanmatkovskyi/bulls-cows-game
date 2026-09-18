@@ -20,4 +20,5 @@ it was created in Python 3.14.7, and using Python library called "Random".
 
 # Author & Contact Info
 Contacting Email: nikhelp26@icloud.com
+
 Author's GitHub Account: https://github.com/ruslanmatkovskyi
